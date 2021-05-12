@@ -61,5 +61,4 @@ Heroku'ya dağıtmaya tıklamadan önce çatalı ve hemen altındaki yıldıza t
 - `/userbotleave` - asistanı sohbetinizden çıkarın
 - `/admincache` - Yönetici listesini yenile
 
-# Benimle İletişime geçmekten çekinme:
-"https://t.me/Poyraz2103"
+
