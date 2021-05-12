@@ -4,6 +4,10 @@
 
 ### Bu music botunun 2. sürümü [GoodVibesMusic]
 
+<p align="center">
+  <img src="https://telegra.ph/file/810ec0867be11dd1ed348.png">
+</p>
+
 
 ## Ver 💙
 
