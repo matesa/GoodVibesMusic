@@ -62,4 +62,4 @@ Heroku'ya dağıtmaya tıklamadan önce çatalı ve hemen altındaki yıldıza t
 - `/admincache` - Yönetici listesini yenile
 
 # Benimle İletişime geçmekten çekinme:
-<a href="https://t.me/Poyraz2103">
+"https://t.me/Poyraz2103"
